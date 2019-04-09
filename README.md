@@ -1,4 +1,6 @@
 # adobe-xd-disable-proto-arrows-navigation
+[![Install UserScript](https://img.shields.io/badge/Install-UserScript-brightgreen.svg)](adobe-xd-disable-proto-arrows-navigation.user.js?raw=true)
+
 Disables left/right arrows navigation for Adobe XD shared prototypes (xd.adobe.com/view/*).
 
 ## Installation
