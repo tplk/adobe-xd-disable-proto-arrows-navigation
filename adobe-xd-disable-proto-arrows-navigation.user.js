@@ -33,7 +33,7 @@
 // @homepageURL  https://github.com/tplk/adobe-xd-disable-proto-arrows-navigation
 // @downloadURL  https://github.com/tplk/adobe-xd-disable-proto-arrows-navigation/raw/master/adobe-xd-disable-proto-arrows-navigation.user.js
 
-// @license      ISC - https://opensource.org/licenses/MIT
+// @license      MIT - https://opensource.org/licenses/MIT
 // @copyright    Copyright (c) 2019, Dmitry Teplov <tplk@itplk.ru> (https://itplk.ru)
 
 // @include        https://xd.adobe.com/view/*
